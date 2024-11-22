@@ -2,7 +2,7 @@ This is my PyTorch implementation of the STFGNN (Spatial-Temporal Fusion Graph N
 
 The model is evaluated on the following PEMS (California Department of Transportation Performance Measurement System) datasets, which can be obtained from the official repository at https://github.com/MengzhangLI/STFGNN
 
-#### (3) Model training
+#### Model training
 ```
 python main_4n0_3layer_12T_res.py --config config/XXXX/individual_3layer_12T.json
 
